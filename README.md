@@ -7,7 +7,7 @@
 🤝 I'm open to collaborations and love being part of the open-source community.
 🌱 Currently, I'm working on a project, Periospot 3.0, combining blockchain technology and dentistry - yes, you read that right!
 📫 Feel free to reach me at cisco@periospot.com or drop a comment on my latest commits.
-![100 Days of Code](https://img.shields.io/badge/100%20Days%20of%20Code-✅%20Complete-black?style=flat-square&logo=github)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tuminha&theme=transparent&hide_border=true)
 
 <!---
 Tuminha/Tuminha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

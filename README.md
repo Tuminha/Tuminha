@@ -18,7 +18,9 @@ Python · PyTorch · scikit-learn · Claude API · Next.js · Supabase · Vercel
 
 ### Find me
 
-[periospot.com](https://periospot.com) · [LinkedIn](https://www.linkedin.com/in/franciscoteixeirabarbosa/) · [X / @Cisco_research](https://x.com/Cisco_research) · cisco@periospot.com
+[periospot.com](https://periospot.com) · [LinkedIn](https://www.linkedin.com/in/franciscoteixeirabarbosa/) · [Instagram / @tuminha_dds](https://instagram.com/tuminha_dds) · [YouTube](https://www.youtube.com/@periospot) · [X / @Cisco_research](https://x.com/Cisco_research) · cisco@periospot.com
+
+**Best way to reach me:** email for substantive asks, LinkedIn for quick intros.
 
 <!---
 Tuminha/Tuminha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

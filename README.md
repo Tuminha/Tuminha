@@ -1,15 +1,24 @@
-👋 Hi there! I'm Francisco, known as @Tuminha in the GitHub universe.
-🦷 By day, I'm a dedicated dentist making the world smile one patient at a time.
-🎸 By night, I'm a passionate guitar player creating melodies that inspire.
-💡 I'm fascinated by technology, and I'm currently on a journey to become a self-taught developer.
-👨‍💻 My interests span across HTML, CSS, JavaScript, Python, Solidity, and more. I'm always up for learning something new!
-🌍 As a natural communicator, I thrive in social media and marketing. I also love lecturing and sharing my knowledge with others.
-🤝 I'm open to collaborations and love being part of the open-source community.
-🌱 Currently, I'm working on a project, Periospot 3.0, combining blockchain technology and dentistry - yes, you read that right!
-📫 Feel free to reach me at cisco@periospot.com or drop a comment on my latest commits.
-![100 Days of Code](https://img.shields.io/badge/100%20Days%20of%20Code-Periospot%20AI%20🔥-00A8A8?style=for-the-badge&logo=python&logoColor=white)
+## Francisco Teixeira Barbosa — `@Tuminha`
+
+Periodontist and builder. Founder of [Periospot](https://periospot.com) (14k+ newsletter for dentists) and Executive Director at the [Foundation for Oral Rehabilitation](https://www.for.org). Based in Basel, Switzerland.
+
+I build AI tools that move dentistry from "we think" to "the evidence shows."
+
+### What I'm building
+
+- **[dental-ai-skills](https://github.com/Tuminha/dental-ai-skills)** — Structured Claude skills for research critique, GRADE-scored evidence review, and dental content. Works in Claude Desktop, Claude Code, and ChatGPT.
+- **[llm-evaluation-for-dentistry](https://github.com/Tuminha/llm-evaluation-for-dentistry)** — Benchmarking LLaMA 3.1 70B providers on dental knowledge. RAG eval with Weights & Biases tracking.
+- **[Dental-Evidence-Triage](https://github.com/Tuminha/Dental-Evidence-Triage-A-Multi-label-Study-Design-Classifier-for-PubMed-Dental-Abstracts)** — Multi-label classifier that triages PubMed dental abstracts by study design.
+- **[Periospot-ML-Social-Media-Performance-Predictor](https://github.com/Tuminha/Periospot-ML-Social-Media-Performance-Predictor)** — ML model that predicts high-performing posts from pre-publishing features.
+
+### Stack I actually ship with
+
+Python · PyTorch · scikit-learn · Claude API · Next.js · Supabase · Vercel
+
+### Find me
+
+[periospot.com](https://periospot.com) · [LinkedIn](https://www.linkedin.com/in/franciscoteixeirabarbosa/) · [X / @Cisco_research](https://x.com/Cisco_research) · cisco@periospot.com
 
 <!---
 Tuminha/Tuminha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->

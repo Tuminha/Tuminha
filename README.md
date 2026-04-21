@@ -10,6 +10,7 @@ I build AI tools that move dentistry from "we think" to "the evidence shows."
 - **[llm-evaluation-for-dentistry](https://github.com/Tuminha/llm-evaluation-for-dentistry)** — Benchmarking LLaMA 3.1 70B providers on dental knowledge. RAG eval with Weights & Biases tracking.
 - **[Dental-Evidence-Triage](https://github.com/Tuminha/Dental-Evidence-Triage-A-Multi-label-Study-Design-Classifier-for-PubMed-Dental-Abstracts)** — Multi-label classifier that triages PubMed dental abstracts by study design.
 - **[Periospot-ML-Social-Media-Performance-Predictor](https://github.com/Tuminha/Periospot-ML-Social-Media-Performance-Predictor)** — ML model that predicts high-performing posts from pre-publishing features.
+- **[screenshot-blur-agent](https://github.com/Tuminha/screenshot-blur-agent)** — AI-vision pipeline that finds sensitive regions in screenshots and blurs them automatically. Built for Claude Code, Codex, and other agent workflows.
 
 ### Stack I actually ship with
 
